@@ -204,6 +204,3 @@ Through this project, I gained practical experience in:
 * Bootstrap-based Responsive UI
 
 ---
-
-GitHub: https://github.com/KarunaDhende31
-# Secure-Login-System
